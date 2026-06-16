@@ -42,3 +42,6 @@ O projeto estará disponível em:
 ```txt
 http://localhost:5173
 ```
+
+Link do projeto:
+https://financeiro-app-zeta.vercel.app/
